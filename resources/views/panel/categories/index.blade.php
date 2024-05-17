@@ -9,7 +9,7 @@
                     <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
                 </div>
             @endif
-           <h3>Kategoriler</h3>
+            <h3>Kategoriler</h3>
             <a href="{{route('panel.createPage')}}" class=" btn btn-sm btn-success">Yeni Kategori Oluştur</a>
         </div>
         <h5 class="card-header">Kategori Listesi</h5>
@@ -42,7 +42,7 @@
                                 {{$k->created_at}}
                             </td>
                             <td>
-                                <button>Güncelle</button>
+                                <a href="{{route('panel.categoryUpdatePage',$k->id)}}" class="btn btn-info">Güncelle</a>
                                 <button>Sil</button>
                             </td>
 

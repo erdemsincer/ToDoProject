@@ -21,7 +21,7 @@
     data-template="vertical-menu-template-free"
 >
 <head>
-    <meta charset="utf-8" />
+    <meta charset="utf-8"/>
     <meta
         name="viewport"
         content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0"
@@ -29,31 +29,32 @@
 
     <title>Dashboard - Analytics | Sneat - Bootstrap 5 HTML Admin Template - Pro</title>
 
-    <meta name="description" content="" />
+    <meta name="description" content=""/>
 
     <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="{{asset('panel/assets/img/favicon/favicon.ico')}}" />
+    <link rel="icon" type="image/x-icon" href="{{asset('panel/assets/img/favicon/favicon.ico')}}"/>
 
     <!-- Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://fonts.googleapis.com"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
     <link
         href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
         rel="stylesheet"
     />
 
     <!-- Icons. Uncomment required icon fonts -->
-    <link rel="stylesheet" href="{{asset('panel/assets/vendor/fonts/boxicons.css')}}" />
+    <link rel="stylesheet" href="{{asset('panel/assets/vendor/fonts/boxicons.css')}}"/>
 
     <!-- Core CSS -->
-    <link rel="stylesheet" href="{{asset('panel/assets/vendor/css/core.css')}}" class="template-customizer-core-css" />
-    <link rel="stylesheet" href="{{asset('panel/assets/vendor/css/theme-default.css')}}" class="template-customizer-theme-css" />
-    <link rel="stylesheet" href="{{asset('panel/assets/css/demo.css')}}" />
+    <link rel="stylesheet" href="{{asset('panel/assets/vendor/css/core.css')}}" class="template-customizer-core-css"/>
+    <link rel="stylesheet" href="{{asset('panel/assets/vendor/css/theme-default.css')}}"
+          class="template-customizer-theme-css"/>
+    <link rel="stylesheet" href="{{asset('panel/assets/css/demo.css')}}"/>
 
     <!-- Vendors CSS -->
-    <link rel="stylesheet" href="{{asset('panel/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css')}}" />
+    <link rel="stylesheet" href="{{asset('panel/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css')}}"/>
 
-    <link rel="stylesheet" href="{{asset('panel/assets/vendor/libs/apex-charts/apex-charts.css')}}" />
+    <link rel="stylesheet" href="{{asset('panel/assets/vendor/libs/apex-charts/apex-charts.css')}}"/>
 
     <!-- Page CSS -->
 
@@ -371,7 +372,8 @@
                 </li>
 
                 <!-- Forms & Tables -->
-                <li class="menu-header small text-uppercase"><span class="menu-header-text">Forms &amp; Tables</span></li>
+                <li class="menu-header small text-uppercase"><span class="menu-header-text">Forms &amp; Tables</span>
+                </li>
                 <!-- Forms -->
                 <li class="menu-item">
                     <a href="javascript:void(0);" class="menu-link menu-toggle">
@@ -487,9 +489,10 @@
 
                         <!-- User -->
                         <li class="nav-item navbar-dropdown dropdown-user dropdown">
-                            <a class="nav-link dropdown-toggle hide-arrow" href="javascript:void(0);" data-bs-toggle="dropdown">
+                            <a class="nav-link dropdown-toggle hide-arrow" href="javascript:void(0);"
+                               data-bs-toggle="dropdown">
                                 <div class="avatar avatar-online">
-                                    <img src="../assets/img/avatars/1.png" alt class="w-px-40 h-auto rounded-circle" />
+                                    <img src="../assets/img/avatars/1.png" alt class="w-px-40 h-auto rounded-circle"/>
                                 </div>
                             </a>
                             <ul class="dropdown-menu dropdown-menu-end">
@@ -498,7 +501,8 @@
                                         <div class="d-flex">
                                             <div class="flex-shrink-0 me-3">
                                                 <div class="avatar avatar-online">
-                                                    <img src="../assets/img/avatars/1.png" alt class="w-px-40 h-auto rounded-circle" />
+                                                    <img src="../assets/img/avatars/1.png" alt
+                                                         class="w-px-40 h-auto rounded-circle"/>
                                                 </div>
                                             </div>
                                             <div class="flex-grow-1">
@@ -572,7 +576,8 @@
                         </div>
                         <div>
                             <a href="https://themeselection.com/license/" class="footer-link me-4" target="_blank">License</a>
-                            <a href="https://themeselection.com/" target="_blank" class="footer-link me-4">More Themes</a>
+                            <a href="https://themeselection.com/" target="_blank" class="footer-link me-4">More
+                                Themes</a>
 
                             <a
                                 href="https://themeselection.com/demo/sneat-bootstrap-html-admin-template/documentation/"
@@ -659,7 +664,7 @@
     data-template="vertical-menu-template-free"
 >
 <head>
-    <meta charset="utf-8" />
+    <meta charset="utf-8"/>
     <meta
         name="viewport"
         content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0"
@@ -667,31 +672,31 @@
 
     <title>Dashboard - Analytics | Sneat - Bootstrap 5 HTML Admin Template - Pro</title>
 
-    <meta name="description" content="" />
+    <meta name="description" content=""/>
 
     <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="../assets/img/favicon/favicon.ico" />
+    <link rel="icon" type="image/x-icon" href="../assets/img/favicon/favicon.ico"/>
 
     <!-- Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://fonts.googleapis.com"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
     <link
         href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
         rel="stylesheet"
     />
 
     <!-- Icons. Uncomment required icon fonts -->
-    <link rel="stylesheet" href="../assets/vendor/fonts/boxicons.css" />
+    <link rel="stylesheet" href="../assets/vendor/fonts/boxicons.css"/>
 
     <!-- Core CSS -->
-    <link rel="stylesheet" href="../assets/vendor/css/core.css" class="template-customizer-core-css" />
-    <link rel="stylesheet" href="../assets/vendor/css/theme-default.css" class="template-customizer-theme-css" />
-    <link rel="stylesheet" href="../assets/css/demo.css" />
+    <link rel="stylesheet" href="../assets/vendor/css/core.css" class="template-customizer-core-css"/>
+    <link rel="stylesheet" href="../assets/vendor/css/theme-default.css" class="template-customizer-theme-css"/>
+    <link rel="stylesheet" href="../assets/css/demo.css"/>
 
     <!-- Vendors CSS -->
-    <link rel="stylesheet" href="../assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css" />
+    <link rel="stylesheet" href="../assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css"/>
 
-    <link rel="stylesheet" href="../assets/vendor/libs/apex-charts/apex-charts.css" />
+    <link rel="stylesheet" href="../assets/vendor/libs/apex-charts/apex-charts.css"/>
 
     <!-- Page CSS -->
 
@@ -1031,7 +1036,8 @@
                 </li>
 
                 <!-- Forms & Tables -->
-                <li class="menu-header small text-uppercase"><span class="menu-header-text">Forms &amp; Tables</span></li>
+                <li class="menu-header small text-uppercase"><span class="menu-header-text">Forms &amp; Tables</span>
+                </li>
                 <!-- Forms -->
                 <li class="menu-item">
                     <a href="javascript:void(0);" class="menu-link menu-toggle">
@@ -1147,9 +1153,10 @@
 
                         <!-- User -->
                         <li class="nav-item navbar-dropdown dropdown-user dropdown">
-                            <a class="nav-link dropdown-toggle hide-arrow" href="javascript:void(0);" data-bs-toggle="dropdown">
+                            <a class="nav-link dropdown-toggle hide-arrow" href="javascript:void(0);"
+                               data-bs-toggle="dropdown">
                                 <div class="avatar avatar-online">
-                                    <img src="../assets/img/avatars/1.png" alt class="w-px-40 h-auto rounded-circle" />
+                                    <img src="../assets/img/avatars/1.png" alt class="w-px-40 h-auto rounded-circle"/>
                                 </div>
                             </a>
                             <ul class="dropdown-menu dropdown-menu-end">
@@ -1158,7 +1165,8 @@
                                         <div class="d-flex">
                                             <div class="flex-shrink-0 me-3">
                                                 <div class="avatar avatar-online">
-                                                    <img src="../assets/img/avatars/1.png" alt class="w-px-40 h-auto rounded-circle" />
+                                                    <img src="../assets/img/avatars/1.png" alt
+                                                         class="w-px-40 h-auto rounded-circle"/>
                                                 </div>
                                             </div>
                                             <div class="flex-grow-1">
@@ -1223,11 +1231,13 @@
                                         <div class="card-body">
                                             <h5 class="card-title text-primary">Congratulations John! 🎉</h5>
                                             <p class="mb-4">
-                                                You have done <span class="fw-bold">72%</span> more sales today. Check your new badge in
+                                                You have done <span class="fw-bold">72%</span> more sales today. Check
+                                                your new badge in
                                                 your profile.
                                             </p>
 
-                                            <a href="javascript:;" class="btn btn-sm btn-outline-primary">View Badges</a>
+                                            <a href="javascript:;" class="btn btn-sm btn-outline-primary">View
+                                                Badges</a>
                                         </div>
                                     </div>
                                     <div class="col-sm-5 text-center text-sm-left">
@@ -1268,15 +1278,18 @@
                                                     >
                                                         <i class="bx bx-dots-vertical-rounded"></i>
                                                     </button>
-                                                    <div class="dropdown-menu dropdown-menu-end" aria-labelledby="cardOpt3">
-                                                        <a class="dropdown-item" href="javascript:void(0);">View More</a>
+                                                    <div class="dropdown-menu dropdown-menu-end"
+                                                         aria-labelledby="cardOpt3">
+                                                        <a class="dropdown-item" href="javascript:void(0);">View
+                                                            More</a>
                                                         <a class="dropdown-item" href="javascript:void(0);">Delete</a>
                                                     </div>
                                                 </div>
                                             </div>
                                             <span class="fw-semibold d-block mb-1">Profit</span>
                                             <h3 class="card-title mb-2">$12,628</h3>
-                                            <small class="text-success fw-semibold"><i class="bx bx-up-arrow-alt"></i> +72.80%</small>
+                                            <small class="text-success fw-semibold"><i class="bx bx-up-arrow-alt"></i>
+                                                +72.80%</small>
                                         </div>
                                     </div>
                                 </div>
@@ -1302,15 +1315,18 @@
                                                     >
                                                         <i class="bx bx-dots-vertical-rounded"></i>
                                                     </button>
-                                                    <div class="dropdown-menu dropdown-menu-end" aria-labelledby="cardOpt6">
-                                                        <a class="dropdown-item" href="javascript:void(0);">View More</a>
+                                                    <div class="dropdown-menu dropdown-menu-end"
+                                                         aria-labelledby="cardOpt6">
+                                                        <a class="dropdown-item" href="javascript:void(0);">View
+                                                            More</a>
                                                         <a class="dropdown-item" href="javascript:void(0);">Delete</a>
                                                     </div>
                                                 </div>
                                             </div>
                                             <span>Sales</span>
                                             <h3 class="card-title text-nowrap mb-1">$4,679</h3>
-                                            <small class="text-success fw-semibold"><i class="bx bx-up-arrow-alt"></i> +28.42%</small>
+                                            <small class="text-success fw-semibold"><i class="bx bx-up-arrow-alt"></i>
+                                                +28.42%</small>
                                         </div>
                                     </div>
                                 </div>
@@ -1338,7 +1354,8 @@
                                                     >
                                                         2022
                                                     </button>
-                                                    <div class="dropdown-menu dropdown-menu-end" aria-labelledby="growthReportId">
+                                                    <div class="dropdown-menu dropdown-menu-end"
+                                                         aria-labelledby="growthReportId">
                                                         <a class="dropdown-item" href="javascript:void(0);">2021</a>
                                                         <a class="dropdown-item" href="javascript:void(0);">2020</a>
                                                         <a class="dropdown-item" href="javascript:void(0);">2019</a>
@@ -1349,10 +1366,12 @@
                                         <div id="growthChart"></div>
                                         <div class="text-center fw-semibold pt-3 mb-2">62% Company Growth</div>
 
-                                        <div class="d-flex px-xxl-4 px-lg-2 p-4 gap-xxl-3 gap-lg-1 gap-3 justify-content-between">
+                                        <div
+                                            class="d-flex px-xxl-4 px-lg-2 p-4 gap-xxl-3 gap-lg-1 gap-3 justify-content-between">
                                             <div class="d-flex">
                                                 <div class="me-2">
-                                                    <span class="badge bg-label-primary p-2"><i class="bx bx-dollar text-primary"></i></span>
+                                                    <span class="badge bg-label-primary p-2"><i
+                                                            class="bx bx-dollar text-primary"></i></span>
                                                 </div>
                                                 <div class="d-flex flex-column">
                                                     <small>2022</small>
@@ -1361,7 +1380,8 @@
                                             </div>
                                             <div class="d-flex">
                                                 <div class="me-2">
-                                                    <span class="badge bg-label-info p-2"><i class="bx bx-wallet text-info"></i></span>
+                                                    <span class="badge bg-label-info p-2"><i
+                                                            class="bx bx-wallet text-info"></i></span>
                                                 </div>
                                                 <div class="d-flex flex-column">
                                                     <small>2021</small>
@@ -1381,7 +1401,8 @@
                                         <div class="card-body">
                                             <div class="card-title d-flex align-items-start justify-content-between">
                                                 <div class="avatar flex-shrink-0">
-                                                    <img src="../assets/img/icons/unicons/paypal.png" alt="Credit Card" class="rounded" />
+                                                    <img src="../assets/img/icons/unicons/paypal.png" alt="Credit Card"
+                                                         class="rounded"/>
                                                 </div>
                                                 <div class="dropdown">
                                                     <button
@@ -1394,15 +1415,18 @@
                                                     >
                                                         <i class="bx bx-dots-vertical-rounded"></i>
                                                     </button>
-                                                    <div class="dropdown-menu dropdown-menu-end" aria-labelledby="cardOpt4">
-                                                        <a class="dropdown-item" href="javascript:void(0);">View More</a>
+                                                    <div class="dropdown-menu dropdown-menu-end"
+                                                         aria-labelledby="cardOpt4">
+                                                        <a class="dropdown-item" href="javascript:void(0);">View
+                                                            More</a>
                                                         <a class="dropdown-item" href="javascript:void(0);">Delete</a>
                                                     </div>
                                                 </div>
                                             </div>
                                             <span class="d-block mb-1">Payments</span>
                                             <h3 class="card-title text-nowrap mb-2">$2,456</h3>
-                                            <small class="text-danger fw-semibold"><i class="bx bx-down-arrow-alt"></i> -14.82%</small>
+                                            <small class="text-danger fw-semibold"><i class="bx bx-down-arrow-alt"></i>
+                                                -14.82%</small>
                                         </div>
                                     </div>
                                 </div>
@@ -1411,7 +1435,8 @@
                                         <div class="card-body">
                                             <div class="card-title d-flex align-items-start justify-content-between">
                                                 <div class="avatar flex-shrink-0">
-                                                    <img src="../assets/img/icons/unicons/cc-primary.png" alt="Credit Card" class="rounded" />
+                                                    <img src="../assets/img/icons/unicons/cc-primary.png"
+                                                         alt="Credit Card" class="rounded"/>
                                                 </div>
                                                 <div class="dropdown">
                                                     <button
@@ -1425,14 +1450,16 @@
                                                         <i class="bx bx-dots-vertical-rounded"></i>
                                                     </button>
                                                     <div class="dropdown-menu" aria-labelledby="cardOpt1">
-                                                        <a class="dropdown-item" href="javascript:void(0);">View More</a>
+                                                        <a class="dropdown-item" href="javascript:void(0);">View
+                                                            More</a>
                                                         <a class="dropdown-item" href="javascript:void(0);">Delete</a>
                                                     </div>
                                                 </div>
                                             </div>
                                             <span class="fw-semibold d-block mb-1">Transactions</span>
                                             <h3 class="card-title mb-2">$14,857</h3>
-                                            <small class="text-success fw-semibold"><i class="bx bx-up-arrow-alt"></i> +28.14%</small>
+                                            <small class="text-success fw-semibold"><i class="bx bx-up-arrow-alt"></i>
+                                                +28.14%</small>
                                         </div>
                                     </div>
                                 </div>
@@ -1442,10 +1469,12 @@
                                     <div class="card">
                                         <div class="card-body">
                                             <div class="d-flex justify-content-between flex-sm-row flex-column gap-3">
-                                                <div class="d-flex flex-sm-column flex-row align-items-start justify-content-between">
+                                                <div
+                                                    class="d-flex flex-sm-column flex-row align-items-start justify-content-between">
                                                     <div class="card-title">
                                                         <h5 class="text-nowrap mb-2">Profile Report</h5>
-                                                        <span class="badge bg-label-warning rounded-pill">Year 2021</span>
+                                                        <span
+                                                            class="badge bg-label-warning rounded-pill">Year 2021</span>
                                                     </div>
                                                     <div class="mt-sm-auto">
                                                         <small class="text-success text-nowrap fw-semibold"
@@ -1504,7 +1533,8 @@
                             ><i class="bx bx-mobile-alt"></i
                                 ></span>
                                             </div>
-                                            <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
+                                            <div
+                                                class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
                                                 <div class="me-2">
                                                     <h6 class="mb-0">Electronic</h6>
                                                     <small class="text-muted">Mobile, Earbuds, TV</small>
@@ -1516,9 +1546,11 @@
                                         </li>
                                         <li class="d-flex mb-4 pb-1">
                                             <div class="avatar flex-shrink-0 me-3">
-                                                <span class="avatar-initial rounded bg-label-success"><i class="bx bx-closet"></i></span>
+                                                <span class="avatar-initial rounded bg-label-success"><i
+                                                        class="bx bx-closet"></i></span>
                                             </div>
-                                            <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
+                                            <div
+                                                class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
                                                 <div class="me-2">
                                                     <h6 class="mb-0">Fashion</h6>
                                                     <small class="text-muted">T-shirt, Jeans, Shoes</small>
@@ -1530,9 +1562,11 @@
                                         </li>
                                         <li class="d-flex mb-4 pb-1">
                                             <div class="avatar flex-shrink-0 me-3">
-                                                <span class="avatar-initial rounded bg-label-info"><i class="bx bx-home-alt"></i></span>
+                                                <span class="avatar-initial rounded bg-label-info"><i
+                                                        class="bx bx-home-alt"></i></span>
                                             </div>
-                                            <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
+                                            <div
+                                                class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
                                                 <div class="me-2">
                                                     <h6 class="mb-0">Decor</h6>
                                                     <small class="text-muted">Fine Art, Dining</small>
@@ -1548,7 +1582,8 @@
                             ><i class="bx bx-football"></i
                                 ></span>
                                             </div>
-                                            <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
+                                            <div
+                                                class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
                                                 <div class="me-2">
                                                     <h6 class="mb-0">Sports</h6>
                                                     <small class="text-muted">Football, Cricket Kit</small>
@@ -1592,10 +1627,11 @@
                                 </div>
                                 <div class="card-body px-0">
                                     <div class="tab-content p-0">
-                                        <div class="tab-pane fade show active" id="navs-tabs-line-card-income" role="tabpanel">
+                                        <div class="tab-pane fade show active" id="navs-tabs-line-card-income"
+                                             role="tabpanel">
                                             <div class="d-flex p-4 pt-3">
                                                 <div class="avatar flex-shrink-0 me-3">
-                                                    <img src="../assets/img/icons/unicons/wallet.png" alt="User" />
+                                                    <img src="../assets/img/icons/unicons/wallet.png" alt="User"/>
                                                 </div>
                                                 <div>
                                                     <small class="text-muted d-block">Total Balance</small>
@@ -1652,9 +1688,11 @@
                                     <ul class="p-0 m-0">
                                         <li class="d-flex mb-4 pb-1">
                                             <div class="avatar flex-shrink-0 me-3">
-                                                <img src="../assets/img/icons/unicons/paypal.png" alt="User" class="rounded" />
+                                                <img src="../assets/img/icons/unicons/paypal.png" alt="User"
+                                                     class="rounded"/>
                                             </div>
-                                            <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
+                                            <div
+                                                class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
                                                 <div class="me-2">
                                                     <small class="text-muted d-block mb-1">Paypal</small>
                                                     <h6 class="mb-0">Send money</h6>
@@ -1667,9 +1705,11 @@
                                         </li>
                                         <li class="d-flex mb-4 pb-1">
                                             <div class="avatar flex-shrink-0 me-3">
-                                                <img src="../assets/img/icons/unicons/wallet.png" alt="User" class="rounded" />
+                                                <img src="../assets/img/icons/unicons/wallet.png" alt="User"
+                                                     class="rounded"/>
                                             </div>
-                                            <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
+                                            <div
+                                                class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
                                                 <div class="me-2">
                                                     <small class="text-muted d-block mb-1">Wallet</small>
                                                     <h6 class="mb-0">Mac'D</h6>
@@ -1682,9 +1722,11 @@
                                         </li>
                                         <li class="d-flex mb-4 pb-1">
                                             <div class="avatar flex-shrink-0 me-3">
-                                                <img src="../assets/img/icons/unicons/chart.png" alt="User" class="rounded" />
+                                                <img src="../assets/img/icons/unicons/chart.png" alt="User"
+                                                     class="rounded"/>
                                             </div>
-                                            <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
+                                            <div
+                                                class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
                                                 <div class="me-2">
                                                     <small class="text-muted d-block mb-1">Transfer</small>
                                                     <h6 class="mb-0">Refund</h6>
@@ -1697,9 +1739,11 @@
                                         </li>
                                         <li class="d-flex mb-4 pb-1">
                                             <div class="avatar flex-shrink-0 me-3">
-                                                <img src="../assets/img/icons/unicons/cc-success.png" alt="User" class="rounded" />
+                                                <img src="../assets/img/icons/unicons/cc-success.png" alt="User"
+                                                     class="rounded"/>
                                             </div>
-                                            <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
+                                            <div
+                                                class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
                                                 <div class="me-2">
                                                     <small class="text-muted d-block mb-1">Credit Card</small>
                                                     <h6 class="mb-0">Ordered Food</h6>
@@ -1712,9 +1756,11 @@
                                         </li>
                                         <li class="d-flex mb-4 pb-1">
                                             <div class="avatar flex-shrink-0 me-3">
-                                                <img src="../assets/img/icons/unicons/wallet.png" alt="User" class="rounded" />
+                                                <img src="../assets/img/icons/unicons/wallet.png" alt="User"
+                                                     class="rounded"/>
                                             </div>
-                                            <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
+                                            <div
+                                                class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
                                                 <div class="me-2">
                                                     <small class="text-muted d-block mb-1">Wallet</small>
                                                     <h6 class="mb-0">Starbucks</h6>
@@ -1727,9 +1773,11 @@
                                         </li>
                                         <li class="d-flex">
                                             <div class="avatar flex-shrink-0 me-3">
-                                                <img src="../assets/img/icons/unicons/cc-warning.png" alt="User" class="rounded" />
+                                                <img src="../assets/img/icons/unicons/cc-warning.png" alt="User"
+                                                     class="rounded"/>
                                             </div>
-                                            <div class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
+                                            <div
+                                                class="d-flex w-100 flex-wrap align-items-center justify-content-between gap-2">
                                                 <div class="me-2">
                                                     <small class="text-muted d-block mb-1">Mastercard</small>
                                                     <h6 class="mb-0">Ordered Food</h6>
@@ -1762,7 +1810,8 @@
                         </div>
                         <div>
                             <a href="https://themeselection.com/license/" class="footer-link me-4" target="_blank">License</a>
-                            <a href="https://themeselection.com/" target="_blank" class="footer-link me-4">More Themes</a>
+                            <a href="https://themeselection.com/" target="_blank" class="footer-link me-4">More
+                                Themes</a>
 
                             <a
                                 href="https://themeselection.com/demo/sneat-bootstrap-html-admin-template/documentation/"
