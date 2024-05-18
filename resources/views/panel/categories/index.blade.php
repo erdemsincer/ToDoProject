@@ -39,11 +39,11 @@
 
                             </td>
                             <td>
-                                {{$k->created_at}}
+                                {{$k->created_at->diffForHumans()}}
                             </td>
                             <td>
                                 <a href="{{route('panel.categoryUpdatePage',$k->id)}}" class="btn btn-info">Güncelle</a>
-                                <button>Sil</button>
+                                <a class="btn btn-danger" href="{{route('panel.categoryDelete',$k->id)}}">Sil</a>
                             </td>
 
                         </tr>

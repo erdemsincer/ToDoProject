@@ -27,4 +27,6 @@ Route::get('/panel/categories/create',[CategoryController::class,'createPage'])-
 Route::post('/panel/categories/addCategory',[CategoryController::class,'postCategory'])->name('panel.categoryAdd');
 Route::get('panel/categories/update/{id}',[CategoryController::class,'updatePage'])->name('panel.categoryUpdatePage');
 Route::post('panel/category/updatePost',[CategoryController::class,'updateCategory'])->name('panel.updateCategory');
+Route::get('panel/category/deleteCategory/{id}',[CategoryController::class,'deleteCategory'])->name('panel.categoryDelete');
+
 
